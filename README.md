@@ -1,1 +1,1 @@
-# Prevendo-doen-a-pulmonar-com-RNA
+# Prevendo doença pulmonar com RNA (rede neural artificial)
